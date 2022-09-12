@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: enter
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 647582331bf0d6e48ba92d8b8d3797cf, type: 3}
+    totalSpriteSurfaceArea: 1012029
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 309d1d72e32d31e4d8b9a3f7e87c2bfe, type: 3}
+  - {fileID: 21300000, guid: 7a174f85a5bb623478676256d3d46e18, type: 3}
+  - {fileID: 21300000, guid: b1019edd37aae494f902ae30dec3d2d9, type: 3}
+  - {fileID: 21300000, guid: 5dcdc3be114985746ae02d129fd7becf, type: 3}
+  - {fileID: 21300000, guid: 949f8dcff61d5f44892209b4c53e4886, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - enter_1_0004_Layer-3
+  - enter_1_0003_lvl
+  - enter_1_0001_apple_button
+  - enter_1_0000_x_button
+  - enter_1_0002_f_button1
+  m_Tag: enter
+  m_IsVariant: 0

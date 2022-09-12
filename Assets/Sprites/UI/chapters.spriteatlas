@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: chapters
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bd3fa36fbd054c542ab84d359cfe4812, type: 3}
+    totalSpriteSurfaceArea: 1585157
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6284efe4284037247b630b94cb94dfab, type: 3}
+  - {fileID: 21300000, guid: fe25c21894f700245869ab91a719409c, type: 3}
+  - {fileID: 21300000, guid: eee0e068fb7cdde49a586fa5799e54a4, type: 3}
+  - {fileID: 21300000, guid: a0eba119cfbab934eb95288e9d57c772, type: 3}
+  - {fileID: 21300000, guid: c164f369552fd974f8e8a579d4e2cdb6, type: 3}
+  - {fileID: 21300000, guid: bde956b9ced2c2f448e097e07e12b149, type: 3}
+  - {fileID: 21300000, guid: 2af4a44ab58ed884d886134ad7d59fe5, type: 3}
+  - {fileID: 21300000, guid: 57e4858ac8b20874d807ea9c903ed7c8, type: 3}
+  - {fileID: 21300000, guid: adc17c9ccc01dc14fa14a82fe93ed22b, type: 3}
+  - {fileID: 21300000, guid: de578f7f7a5ba5e478cc1889c2974130, type: 3}
+  - {fileID: 21300000, guid: 4aea57dfd17aa6f4da5085388a3dd455, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u0441hapters_1_0006_arrow"
+  - "\u0441hapters_1_0007_Layer-7"
+  - "\u0441hapters_1_0011_Layer-3"
+  - "\u0441hapters_1_0001_connect_button"
+  - "\u0441hapters_1_0008_Ellipse-1"
+  - "\u0441hapters_1_0005_Layer-5"
+  - "\u0441hapters_1_0000_name"
+  - "\u0441hapters_1_0003_bar_02"
+  - "\u0441hapters_1_0002_Layer-8"
+  - "\u0441hapters_1_0010_x_button"
+  - "\u0441hapters_1_0009_Layer-5"
+  m_Tag: chapters
+  m_IsVariant: 0

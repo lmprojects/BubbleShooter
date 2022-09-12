@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: lvl_map
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4010396fa7cc90445b813c3be4d8d47d, type: 3}
+    totalSpriteSurfaceArea: 5360328
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5da0f602300b54f4f8911b86436ba3c2, type: 3}
+  - {fileID: 21300000, guid: de0ba0d216512c148a88b7311f78d62f, type: 3}
+  - {fileID: 21300000, guid: 4fa48ad21b3bacc48bc96a62415927f9, type: 3}
+  - {fileID: 21300000, guid: 09f909343dd096e4dbffc7223a8edd6f, type: 3}
+  - {fileID: 21300000, guid: fbac2e3457398fd48ba3020d8354bc66, type: 3}
+  - {fileID: 21300000, guid: c98da095164fe13409276372e37216b6, type: 3}
+  - {fileID: 21300000, guid: 3a421fb649ee8494bb589dfa907914ad, type: 3}
+  - {fileID: 21300000, guid: 02ceb5275e986f642820c42882e0b818, type: 3}
+  - {fileID: 21300000, guid: 4eb48759b7941584cb5472d4b76e06a9, type: 3}
+  - {fileID: 21300000, guid: 75ca11fac0f8a5a40872c35c1999dbb5, type: 3}
+  - {fileID: 21300000, guid: f73861cc696301844bc7c172a0943c1b, type: 3}
+  - {fileID: 21300000, guid: 2a531dcc816bc6e49848ae6fd9010264, type: 3}
+  - {fileID: 21300000, guid: 8db4063ee326e3845af7532f0bd9496b, type: 3}
+  - {fileID: 21300000, guid: 7d7db6bfe4896b145b8b95c69c2e7da0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - items_sk_0006_potions2
+  - lvl_map_1_0001_x_button
+  - items_sk_0000_antiseptic
+  - lvl_map_1_0000_lock
+  - items_sk_0001_mask
+  - lvl_map_1_0002_play_button
+  - items_sk_0004_microscope
+  - items_sk_0005_sthetoscop
+  - lvl_map_1_0003_Layer-3
+  - items_sk_0003_tabl
+  - items_sk_0009_vaccine
+  - items_sk_0002_thermometre
+  - items_sk_0007_case
+  - items_sk_0008_pill
+  m_Tag: lvl_map
+  m_IsVariant: 0

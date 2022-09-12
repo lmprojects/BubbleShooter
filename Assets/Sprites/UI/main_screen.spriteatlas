@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: main_screen
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 46eaf4dc4bbc67f4c918131ba4d4993f, type: 3}
+    totalSpriteSurfaceArea: 3544761
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 06e3ab4042b3de145b6fbc1e2979b0c9, type: 3}
+  - {fileID: 21300000, guid: 358cf5e13df239a4aa6d124f58d22d01, type: 3}
+  - {fileID: 21300000, guid: b5f25da482538994cb498eb0ac59a76d, type: 3}
+  - {fileID: 21300000, guid: 046266f8e9e2ad4478c44425c2800aec, type: 3}
+  - {fileID: 21300000, guid: a388a20ce436cf346b23f4966043bd13, type: 3}
+  - {fileID: 21300000, guid: a07e266dd50627646846c6c0fe46dfe1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - main_screen_1_0003_LOGO_virus
+  - main_screen_1_0005_Layer-10
+  - main_screen_1_0004_LOGO_covid
+  - main_screen_1_0000_settings_button
+  - main_screen_1_0002_connect_button
+  - main_screen_1_0001_play_button
+  m_Tag: main_screen
+  m_IsVariant: 0

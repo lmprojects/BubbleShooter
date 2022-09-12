@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: fn
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 64cc354caf748cc469f15590a06e6c0f, type: 3}
+    totalSpriteSurfaceArea: 1852813
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 99cf5e50640c0cc4c84f257c55209cbd, type: 3}
+  - {fileID: 21300000, guid: cd07b711956cafb41a72fd4e7f458742, type: 3}
+  - {fileID: 21300000, guid: 4a8201d15f22ee14b8493cda2d23b6e4, type: 3}
+  - {fileID: 21300000, guid: 9d50d0f17934a6848aef6e80ec7e2f6c, type: 3}
+  - {fileID: 21300000, guid: 0f5daf02d0c0a7640b8bf21d335409b6, type: 3}
+  - {fileID: 21300000, guid: d4b10ea29b22da646bf3646061788e03, type: 3}
+  - {fileID: 21300000, guid: f381fc542287104428e290db819ed81b, type: 3}
+  - {fileID: 21300000, guid: f12a02945b75cfa409612c949355e363, type: 3}
+  - {fileID: 21300000, guid: 3017d5f6db3551e4b95f7a3737b10c27, type: 3}
+  - {fileID: 21300000, guid: d512b5d87356c6546bc7fa1a548b7428, type: 3}
+  - {fileID: 21300000, guid: 38e1b90a5cbd29b4ea57b5bb3c2881c8, type: 3}
+  - {fileID: 21300000, guid: 5e9f695f5b411c44889f9f0728432892, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Fn!_1_0002_Layer-5
+  - Fn!_1_0007_bar_02
+  - Fn!_1_0011_Layer-3
+  - "Fn!_1_0001_\u0421\u043A\u043E\u0440\u043E"
+  - Fn!_1_0008_Layer-8
+  - Fn!_1_0009_Layer-5
+  - Fn!_1_0004_Layer-5
+  - Fn!_1_0010_x_button
+  - Fn!_1_0006_Layer-7
+  - Fn!_1_0005_Layer-5
+  - Fn!_1_0000_name
+  - Fn!_1_0003_Layer-9
+  m_Tag: fn
+  m_IsVariant: 0

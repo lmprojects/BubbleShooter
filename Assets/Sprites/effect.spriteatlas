@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: effect
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 19130097ab1cd5f4d88fda98cab8d731, type: 3}
+    totalSpriteSurfaceArea: 1409286
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 54fe9b2411f9a3f4c8f2844eeb69ae2a, type: 3}
+  - {fileID: 21300000, guid: 4ad4ddcc53fd91c4eaa38337d2c83ac6, type: 3}
+  - {fileID: 21300000, guid: ca23c36e771688a409c021112f80d30e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1559759842Blue-Light-beam-psd69904
+  - Download-Circle-PNG-Transparent-Image (1)
+  - New Project (1)
+  m_Tag: effect
+  m_IsVariant: 0

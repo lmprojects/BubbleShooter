@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: store
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e6d2d428e73d9fd4cac5bffca542c8b2, type: 3}
+    totalSpriteSurfaceArea: 2472668
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: acb155b008cd83b40a88cea06a524a88, type: 3}
+  - {fileID: 21300000, guid: 2f0ae64155a3d9d419a242e7cc0cc524, type: 3}
+  - {fileID: 21300000, guid: 12c08c61a6633bc40bc37e191b9d854f, type: 3}
+  - {fileID: 21300000, guid: 8ca59d913b7af9847a61e2cc5f6fb990, type: 3}
+  - {fileID: 21300000, guid: a12243c3cea63844aaadaa462a72df8a, type: 3}
+  - {fileID: 21300000, guid: 508842047a55aae4294b75f573f59383, type: 3}
+  - {fileID: 21300000, guid: 2e11e1e4902b85d40b20c69e9465f150, type: 3}
+  - {fileID: 21300000, guid: 140da135acd8948469da30584ee1719f, type: 3}
+  - {fileID: 21300000, guid: aa539945dfbc62146acc9ceac24be214, type: 3}
+  - {fileID: 21300000, guid: ad7d2055690e81d418c687eef8f9d005, type: 3}
+  - {fileID: 21300000, guid: 1ae2418614bd5034b94ae602445c15db, type: 3}
+  - {fileID: 21300000, guid: 02c79957f24942f41865268438023f96, type: 3}
+  - {fileID: 21300000, guid: db0bc559993adb54b85d81a442cb97ed, type: 3}
+  - {fileID: 21300000, guid: 0109a95951eb3f04a8a2732c1ee83a8f, type: 3}
+  - {fileID: 21300000, guid: a58a7b6957c9b314082f6a8b75ac425e, type: 3}
+  - {fileID: 21300000, guid: 2757aeb917c34424aa359d19279e549d, type: 3}
+  - {fileID: 21300000, guid: b37c058b467b0994ab2b621501f8a1bd, type: 3}
+  - {fileID: 21300000, guid: f02d13aed6f0bf44fa1914552b60fec1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - store_1_0000_name
+  - 0_0002_3
+  - Layer 19
+  - 0_0004_1
+  - store_1_0002_2
+  - banner
+  - store_1_0001_price_button
+  - 0_0001_4
+  - cir_button
+  - store_1_0005_Layer-3
+  - 1
+  - store_1_0004_x_button
+  - 0_0003_2
+  - main_screen_1_0000_settings_button
+  - "\u041D\u043E\u0432\u043E\u0435!-copy-2_0000_\u041D\u043E\u0432\u043E\u0435!-copy-2"
+  - store_1_0003_2
+  - 0_0000_0
+  - coins (1)
+  m_Tag: store
+  m_IsVariant: 0

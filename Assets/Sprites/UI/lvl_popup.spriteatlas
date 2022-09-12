@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: lvl_popup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1d723f103c6d7d2429eb4af3885250d1, type: 3}
+    totalSpriteSurfaceArea: 1886789
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 01c8fd11cf869da4499ed12ce4d0918b, type: 3}
+  - {fileID: 21300000, guid: 16e40f81a43f790428cf4d5a076292e6, type: 3}
+  - {fileID: 21300000, guid: 3c1607e2954037d4ba633c7d87be180f, type: 3}
+  - {fileID: 21300000, guid: 338f1777c0070ad42b32b9e236be1923, type: 3}
+  - {fileID: 21300000, guid: 0140a5f8ecc9b204aaf28fbf8414e841, type: 3}
+  - {fileID: 21300000, guid: edd1d01afa348704c975a015cf3e542e, type: 3}
+  - {fileID: 21300000, guid: e59a746acdc5701448d9434b296e18a4, type: 3}
+  - {fileID: 21300000, guid: 3aa97b8ab8c22a947bc73ee87a4750a6, type: 3}
+  - {fileID: 21300000, guid: 0ddfe63b9f5f95641a7cf555c6490e47, type: 3}
+  - {fileID: 21300000, guid: 17b52eecb3782784685ac00c5c1f4453, type: 3}
+  - {fileID: 21300000, guid: 2e4161fdcd671594bb8705c518cdc9c4, type: 3}
+  - {fileID: 21300000, guid: 334551be4f8092c43bd716bdbcd97339, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - lvl_popup_1_0003_2
+  - lvl_popup_1_0010_2
+  - lvl_popup_1_0000_4
+  - lvl_popup_1_0001_3
+  - lvl_popup_1_0008_lvl
+  - lvl_popup_1_0002_3-copy
+  - lvl_popup_1_0009_1
+  - lvl_popup_1_0011_Layer-3
+  - lvl_popup_1_0007_cont_button
+  - lvl_popup_1_0004_3
+  - lvl_popup_1_0005_1-
+  - lvl_popup_1_0006_restart_button
+  m_Tag: lvl_popup
+  m_IsVariant: 0

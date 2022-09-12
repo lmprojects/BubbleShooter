@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: gameplay
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8d9e8139409d09b489980df5d70b664d, type: 3}
+    totalSpriteSurfaceArea: 15951460
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ad718a0083181b445bdec13f92006ed9, type: 3}
+  - {fileID: 21300000, guid: 159ea9506de68a949a6091cb0de0f897, type: 3}
+  - {fileID: 21300000, guid: b1b99f809ec49ea4084dbf3fbe7776ca, type: 3}
+  - {fileID: 21300000, guid: 428ae79075c5be44a957a074b0509b37, type: 3}
+  - {fileID: 21300000, guid: 46c74f906d717324ca0def674c06997c, type: 3}
+  - {fileID: 21300000, guid: c3e413c127e09484f9a3b8aeeec34f5b, type: 3}
+  - {fileID: 21300000, guid: da91fe024821ad44bac0d2f5af39afa6, type: 3}
+  - {fileID: 21300000, guid: 58d08822e5a089c438aba238e7b5dc96, type: 3}
+  - {fileID: 21300000, guid: 7b9af072e34814647aa182cdaa9c3be8, type: 3}
+  - {fileID: 21300000, guid: 3a9543923266772409efdd6b5f8b0113, type: 3}
+  - {fileID: 21300000, guid: 6833cbb2e3410a2429fdff40d96a23ab, type: 3}
+  - {fileID: 21300000, guid: 9650fec2222d43143a540d73e0dc3592, type: 3}
+  - {fileID: 21300000, guid: eb6a65e2774fe5d4d918b6adebc14c1f, type: 3}
+  - {fileID: 21300000, guid: 275478f2910a20942a18995779e49b90, type: 3}
+  - {fileID: 21300000, guid: 8a4f51332cf647e429fd7b182edfe468, type: 3}
+  - {fileID: 21300000, guid: 4a297243e2ad2b24fbe9ad94525f1e10, type: 3}
+  - {fileID: 21300000, guid: f16dfa43847dc004da2147e0fde9b377, type: 3}
+  - {fileID: 21300000, guid: 935f75047a954ed4eb143a9e66112b72, type: 3}
+  - {fileID: 21300000, guid: c1940b248ec7b934fb3f02ed9ff5bbb5, type: 3}
+  - {fileID: 21300000, guid: c880b1150bd982d40945e4224d2af64c, type: 3}
+  - {fileID: 21300000, guid: f9ba2fb545ee77543ba5640847aaeac2, type: 3}
+  - {fileID: 21300000, guid: 9b4334e50aa319345a1fc9ac2932c009, type: 3}
+  - {fileID: 21300000, guid: 23c53f161e9e2284094a306e3644d13e, type: 3}
+  - {fileID: 21300000, guid: 4a660a967a8768045b4ea93b08f6999e, type: 3}
+  - {fileID: 21300000, guid: fa281cc612b114446a494f6b2f61b8fa, type: 3}
+  - {fileID: 21300000, guid: 7021a0d6619e6ec4ab854df79df108f0, type: 3}
+  - {fileID: 21300000, guid: 8591b357293c90a4596011ec362ec3df, type: 3}
+  - {fileID: 21300000, guid: 86939a67bc585f44ea4120548f946c25, type: 3}
+  - {fileID: 21300000, guid: b54dcfa721a8c3443962d0e8eb34d2c9, type: 3}
+  - {fileID: 21300000, guid: ba6609b7d9f1ec94eb5ad318995143b7, type: 3}
+  - {fileID: 21300000, guid: 75e7c5e72c4e61d47a720a8605502fca, type: 3}
+  - {fileID: 21300000, guid: 4e398fc88230c794e80f83ae3f579b7b, type: 3}
+  - {fileID: 21300000, guid: 25008cd8571034744bed4019e6a3ec94, type: 3}
+  - {fileID: 21300000, guid: 28f5ee9988b15b347b4dbadbfa8bf16e, type: 3}
+  - {fileID: 21300000, guid: 4a75e3e9447507a44b1dfc67434967d7, type: 3}
+  - {fileID: 21300000, guid: 15a6d26b6a7500f4ea2a7a6408d06f44, type: 3}
+  - {fileID: 21300000, guid: 55e1a47c638f02c448fdfb3883150f2a, type: 3}
+  - {fileID: 21300000, guid: 438d8dcc8462d304f8fdda24648b1e3d, type: 3}
+  - {fileID: 21300000, guid: 3c9ca60e6c475ac4d9a0b16343898b7b, type: 3}
+  - {fileID: 21300000, guid: 2b87512eaa6a6ec40b550303571fd579, type: 3}
+  - {fileID: 21300000, guid: a2337dfee35aa9d439881393f4d83702, type: 3}
+  - {fileID: 21300000, guid: ad707e5f31f306c468ae280eb110cf74, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tabls_0006_1
+  - timer
+  - tube_0000_3
+  - gameplay_1_0004_bubble-copy-3
+  - items_0003_green
+  - tube_0001_2
+  - items_0005_blue
+  - tabls_0002_5
+  - gameplay_1_0000_settings_button
+  - timer (4)
+  - items_0000_pink
+  - items_0006_grey
+  - items_0002_purple
+  - balls_0000_pink
+  - timer (3)
+  - items_0001_yellow
+  - gameplay_1_0005_gun
+  - balls_0002_purple
+  - timer (8)
+  - balls_0003_green
+  - tabls_0000_7
+  - gun
+  - timer (1)
+  - gameplay_1_0007_Back
+  - items_0004_red
+  - gameplay_1_0001_Layer-7
+  - timer (2)
+  - timer (5)
+  - balls_0006_grey
+  - tabls_0003_4
+  - gameplay_1_0002_bar_02
+  - tabls_0005_2
+  - balls_0004_red
+  - timer (7)
+  - timer (6)
+  - tabls_0004_3
+  - balls_0001_yellow
+  - gameplay_1_0006_footer
+  - balls_0005_blue
+  - tube_0002_1
+  - tabls_0001_6
+  - gameplay_1_0003_2-copy
+  m_Tag: gameplay
+  m_IsVariant: 0
